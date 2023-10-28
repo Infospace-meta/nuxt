@@ -1,2 +1,2 @@
-# infospace-meta
-Who we are
+# nuxt
+Lets do nuxt
